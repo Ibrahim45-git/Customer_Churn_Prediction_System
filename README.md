@@ -1,7 +1,7 @@
 # Customer Churn Prediction & Analytics
 
-#Live Demo
-https://customer-churn-predictive-modell.streamlit.app/
+# Live Deployment Link
+https://customerchurnpredictionsystemda.streamlit.app/
 
 ## Project Overview
 
@@ -157,6 +157,15 @@ Data Collection
 ## Feature Importance
 
 ![Features](FeaturesImp.png)
+
+---
+
+## Author
+
+Mohammad Ibrahim Tanveer
+
+GitHub: https://github.com/Ibrahim45-git
+Mail: ibrahimtnv45@gmail.com
 
 
 
