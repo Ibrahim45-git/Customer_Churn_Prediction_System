@@ -20,6 +20,24 @@ The project follows a complete end-to-end analytics workflow:
 
 ---
 
+## Dashboard
+
+![Dashboard](Dashboard.png)
+
+## SQL Analysis
+
+![SQL Analysis](SQL_Analysis.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](ConfusionMatrix.png)
+
+## Feature Importance
+
+![Features](FeaturesImp.png)
+
+---
+
 ## Business Problem
 
 Customer acquisition is significantly more expensive than customer retention. The objective of this project is to identify customers likely to churn and help businesses take proactive retention actions.
@@ -123,7 +141,7 @@ The model prioritizes customer churn detection by maximizing recall while mainta
 
 ## Deployment
 
-The final model was serialized using Joblib and deployed through an interactive Streamlit application where users can:
+The final model is serialized using Joblib and deployed through an interactive Streamlit application where users can:
 
 * Enter customer information
 * Calculate churn probability
@@ -146,28 +164,10 @@ Data Collection
 
 ---
 
-## Dashboard
-
-![Dashboard](Dashboard.png)
-
-## Confusion Matrix
-
-![Confusion Matrix](ConfusionMatrix.png)
-
-## Feature Importance
-
-![Features](FeaturesImp.png)
-
----
-
 ## Author
 
 Mohammad Ibrahim Tanveer
 
 GitHub: https://github.com/Ibrahim45-git
+
 Mail: ibrahimtnv45@gmail.com
-
-
-
-
-
